@@ -2,6 +2,7 @@
   "name": "ra_components_store-func",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vadim2107.github.io/RA_Components_store-func/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -34,6 +35,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://vadim2107.github.io/RA_Components_store-func/"
+  }  
 }
