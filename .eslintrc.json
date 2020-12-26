@@ -5,8 +5,8 @@
         "jest": true
     },
     "extends": [
-        "react-app",
-        "airbnb"
+        "react-app"
+        // "airbnb"
     ],
     "parserOptions": {
         "ecmaVersion": 12,
